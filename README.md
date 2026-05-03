@@ -15,7 +15,7 @@ A full-stack MERN (MongoDB, Express, React, Node) application for managing proje
 ## ⚙️ Environment Setup
 
 ### Backend (Railway Variables)
-- `MONGO_URI`: Your MongoDB connection string.
+- `CONN`: Your MongoDB connection string.
 - `JWT_SECRET`: Your private key for token generation.
 - `PORT`: 8080 (standard for this setup).
 
